@@ -1,6 +1,6 @@
 # 🌸 دسته‌بندی گل‌های زنبق با یادگیری ماشین
 
-**زبان:** [🇬🇧English](https://github.com/A-coder8/Iris-Classification-KNN/README.md)
+**زبان:** [🇬🇧English](https://github.com/A-coder8/Iris-Classification-KNN/blob/main/README.md)
 
 این پروژه با استفاده از زبان برنامه‌نویسی پایتون و الگوریتم **K-Nearest Neighbors (KNN)** ساخته شده است و هدف آن پیش‌بینی گونهٔ گل زنبق بر اساس اندازه‌گیری کاسبرگ و گلبرگ آن است.
 
