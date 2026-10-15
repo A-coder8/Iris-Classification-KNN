@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # read Data and fill a nan to None
-df = pd.read_csv("~/myproject/Model/IRIS model/iris_data.csv")
+df = pd.read_csv("iris_data.csv")
 df.fillna(None)
 
 # set x and y
