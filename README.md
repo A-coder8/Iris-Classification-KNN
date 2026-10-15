@@ -1,7 +1,7 @@
 # Iris Flower Classification 🌸
 **Language:**[فارسی🇮🇷](https://github.com/A-coder8/Iris-Classification-KNN/README.fa.md)
 
-- A machine learning project for Iris flower classification using **K-Nearest Neighbors (KNN)** with Python and scikit-learn.
+ A machine learning project for Iris flower classification using **K-Nearest Neighbors (KNN)** with Python and scikit-learn.
 
 The project predicts the species of an Iris flower based on four measurements of its sepals and petals.
 
