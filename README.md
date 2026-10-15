@@ -51,7 +51,7 @@ pip install pandas numpy scikit-learn
 Run the Python script:
 
 ```bash
-python main.py
+python iris_flower.py
 ```
 
 Enter the four flower measurements when prompted. The model will predict the flower's species.
